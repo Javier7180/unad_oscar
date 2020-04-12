@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+ .css_body{
+     max-width: 100%;
+     align-content: center;
+     
+     padding: 40px 30px 100px 30px;
+    }
+.body_logo_index{
+    width: 120px;
+    height: 100px;
+    position: static; 
+    padding: 20px; 
+}
+
+.css_body div a .body_logo_index{
+    float: right;
+}
+
+.css_body h1{
+    text-transform: uppercase;
+}
+
+.css_body .paragraph_index{
+    width: 70%;
+    color:#000000;
+    line-height: 20px;
+    font-size: unset;
+}
+
+.css_body .buttom_index{
+    color: black;
+    position: relative;
+    width: 150px;
+    height: 35px;
+    text-transform: uppercase;
+    outline: none;
+    border-radius: 15px;
+    left: 75%;
+    bottom: 250px;
+}
+
+.footer_index{
+    text-align: center;
+    font-size: 13px;
+    bottom: 60%;
+}
