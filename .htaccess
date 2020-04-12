@@ -1,0 +1,2 @@
+RewriteEngine en
+RewriteRule!. (Js | gif | jpg | png | css | eot | svg | ttf | woff | woff2 | map ) $ index.php
